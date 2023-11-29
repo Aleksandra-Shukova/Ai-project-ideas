@@ -1,2 +1,2 @@
 # Ai-project-ideas
-self explanatory isnt it?
+https://colab.research.google.com/drive/18MAQci6SmxdVJuoxolIeTBnmj5WBHKfI
